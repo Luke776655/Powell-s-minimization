@@ -1,4 +1,4 @@
-# Powell-s-minimization
+# Powells-minimization
 Powell's quadratic interpolation minimization method
 
 Returns localization of local minimum
